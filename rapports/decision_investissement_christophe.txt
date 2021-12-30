@@ -1,0 +1,90 @@
+From the BruteForce.csv dataset, Christophe bought:
+
+Action-4 - 14.0
+Action-5 - 10.2
+Action-6 - 20.0
+Action-8 - 2.86
+Action-10 - 9.18
+Action-11 - 7.14
+Action-13 - 8.74
+Action-18 - 1.4
+Action-19 - 5.04
+Action-20 - 20.52
+
+
+Total Cost: 498 Euros
+Total Profit: 99.08 Euros
+So a 19.9% ROI
+
+------------------------------------------------------
+
+From the dataset1_Python+P7.csv dataset, Christophe bought:
+
+Share-DBUJ - 0.01
+Share-LDCO - 3.87
+Share-ZSZF - 5.23
+Share-BKDN - 6.58
+Share-GJTI - 2.48
+Share-BCJD - 2.32
+Share-KRLT - 6.09
+Share-XFUI - 6.76
+Share-WVVQ - 2.2
+Share-MXAF - 2.38
+Share-NMDR - 7.34
+Share-WMHE - 4.67
+Share-IFTU - 5.26
+Share-VSIP - 5.57
+Share-WZIF - 1.12
+Share-QFPY - 3.45
+Share-MKXO - 5.28
+Share-KMTG - 9.28
+Share-WALV - 8.24
+Share-BGDY - 0.4
+Share-OQSQ - 1.36
+Share-KXOH - 0.48
+Share-AIRL - 2.25
+Share-CYYC - 0.02
+Share-IQMC - 0.01
+Share-FKJR - 0.12
+Share-STKT - 0.02
+Share-KGQI - 0.04
+
+
+Total Cost: 499 Euros
+Total Profit: 199.93 Euros
+So a 40.07% ROI
+
+------------------------------------------------------
+
+From the dataset2_Python+P7.csv dataset, Christophe bought:
+
+Share-IXCI - 10.37
+Share-ZGFP - 3.62
+Share-MBQU - 18.41
+Share-IRUN - 4.35
+Share-JSMQ - 2.25
+Share-EIZB - 0.26
+Share-RGUQ - 8.83
+Share-FWBE - 7.29
+Share-FZJS - 6.78
+Share-ZOFA - 10.07
+Share-POQJ - 4.33
+Share-PLLK - 7.96
+Share-UABE - 12.42
+Share-LTYL - 12.8
+Share-TEKS - 0.03
+Share-ZOEN - 0.81
+Share-QRFQ - 0.13
+Share-JWDZ - 0.67
+Share-DEPW - 0.24
+Share-LXZU - 1.68
+Share-LKSD - 0.01
+Share-DYVD - 0.03
+
+
+Total Cost: 499 Euros
+Total Profit: 199.04 Euros
+So a 39.89% ROI
+
+------------------------------------------------------
+

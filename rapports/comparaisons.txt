@@ -1,0 +1,23 @@
+Concernant les résultats de Sienna sur le dataset1_Python+P7.csv
+son algorithme à choisi " Share-GRUT,498.76,39.42 ". On comprend
+que ce dernier s'est uniquement chargé de sélectionner l'action 
+dont le prix est le plus élevé, sans essayer de faire le plus de 
+profit possible. Cela se ressent sur les résultats:
+Mon algorithme propose un profit de 199.93 pour un investissement
+de 499, alors que le sien propose un profit de 196.61 pour un 
+investissement de 498.76,
+Soit +3.31 sur le profit et +0.24 sur l'investissement.
+
+Concernant les résultats de Sienna sur le dataset2_Python+P7.csv
+nos résultats sont aussi meilleurs. Mon algorithme propose un 
+profit de 199.04 pour un investissement de 499, alors que le sien
+propose un profit de 193.78 pour un investissement de 498.24,
+Soit +5.25 sur le profit et +0.75 sur l'investissement.
+
+Ce qui aurait été bien, c'est d'avoir une partie du code de Sienna, 
+afin de pouvoir plus détailler les différences entre mon code et 
+le sien. De plus, Sienna n'a pas mis à jour les profits dans la liste
+d' actions sélectionnés. Comme les boucles "for" alliées à "range()",
+ne prennent pas les nombres à virgules dans les calculs, elle à dut 
+multiplier les profits par 100 en entrée pour pallier à cette restriction
+mais n'a pas divisé ces derniers par 100.
