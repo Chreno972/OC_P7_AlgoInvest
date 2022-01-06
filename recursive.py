@@ -23,18 +23,6 @@ with open(CSV_DATA) as csv_file:
 
 
 def solution_recursive(capacite, elements, elements_selection):
-    """
-    Recursive solution
-
-    Args:
-        capacite (int): the max budget
-        elements (list of tuples): the actions list
-        elements_selection (list): the best combination list.
-
-    Returns:
-        string templates: two strings templates containing the results
-    """
-
     if elements:
         val1, lstvalone = solution_recursive(capacite, elements[1:], elements_selection)
         val = elements[0]
